@@ -1,0 +1,193 @@
+[
+  {
+    "id": "carteras-01",
+    "titulo": "Francesa",
+    "imagen": "./img/francesa.jpg",
+    "categoria": {
+      "nombre": "Carteras",
+      "id": "carteras"
+    },
+    "precio": 28990
+  },
+  {
+    "id": "carteras-02",
+    "titulo": "Chiusa",
+    "imagen": "./img/chiusa.jpg",
+    "categoria": {
+      "nombre": "Carteras",
+      "id": "carteras"
+    },
+    "precio": 23500
+  },
+  {
+    "id": "carteras-03",
+    "titulo": "Zita",
+    "imagen": "./img/zita.jpg",
+    "categoria": {
+      "nombre": "Carteras",
+      "id": "carteras"
+    },
+    "precio": 9990
+  },
+  {
+    "id": "carteras-04",
+    "titulo": "Perla",
+    "imagen": "./img/perla.jpg",
+    "categoria": {
+      "nombre": "Carteras",
+      "id": "carteras"
+    },
+    "precio": 26490
+  },
+  {
+    "id": "carteras-05",
+    "titulo": "Gemma",
+    "imagen": "./img/gemma.jpg",
+    "categoria": {
+      "nombre": "Carteras",
+      "id": "carteras"
+    },
+    "precio": 26490
+  },
+  {
+    "id": "mochilas-01",
+    "titulo": "Rufina",
+    "imagen": "./img/rufina.jpg",
+    "categoria": {
+      "nombre": "Mochilas",
+      "id": "mochilas"
+    },
+    "precio": 29490
+  },
+  {
+    "id": "mochilas-02",
+    "titulo": "Paola",
+    "imagen": "./img/paola.jpg",
+    "categoria": {
+      "nombre": "Mochilas",
+      "id": "mochilas"
+    },
+    "precio": 19490
+  },
+  {
+    "id": "mochilas-03",
+    "titulo": "Kimmy",
+    "imagen": "./img/kimmy.jpg",
+    "categoria": {
+      "nombre": "Mochilas",
+      "id": "mochilas"
+    },
+    "precio": 17490
+  },
+  {
+    "id": "mochilas-04",
+    "titulo": "Caroline",
+    "imagen": "./img/caroline.jpg",
+    "categoria": {
+      "nombre": "Mochilas",
+      "id": "mochilas"
+    },
+    "precio": 17490
+  },
+  {
+    "id": "rinioneras-01",
+    "titulo": "Briglia",
+    "imagen": "./img/briglia.jpg",
+    "categoria": {
+      "nombre": "Riñoneras",
+      "id": "rinioneras"
+    },
+    "precio": 12490
+  },
+  {
+    "id": "rinioneras-02",
+    "titulo": "Pavia",
+    "imagen": "./img/pavia.jpg",
+    "categoria": {
+      "nombre": "Riñoneras",
+      "id": "rinioneras"
+    },
+    "precio": 11990
+  },
+  {
+    "id": "rinioneras-03",
+    "titulo": "Rosalie",
+    "imagen": "./img/rosalie.jpg",
+    "categoria": {
+      "nombre": "Riñoneras",
+      "id": "rinioneras"
+    },
+    "precio": 11990
+  },
+  {
+    "id": "rinionetas-04",
+    "titulo": "Giulieta",
+    "imagen": "./img/giulieta.jpg",
+    "categoria": {
+      "nombre": "Riñoneras",
+      "id": "rinioneras"
+    },
+    "precio": 11990
+  },
+  {
+    "id": "billeteras-01",
+    "titulo": "Pellice",
+    "imagen": "./img/pellice.jpg",
+    "categoria": {
+      "nombre": "Billeteras",
+      "id": "billeteras"
+    },
+    "precio": 10290
+  },
+  {
+    "id": "billeteras-02",
+    "titulo": "Monza",
+    "imagen": "./img/monza.jpg",
+    "categoria": {
+      "nombre": "Billeteras",
+      "id": "billeteras"
+    },
+    "precio": 5690
+  },
+  {
+    "id": "billeteras-03",
+    "titulo": "Poppi",
+    "imagen": "./img/poppi.jpg",
+    "categoria": {
+      "nombre": "Billeteras",
+      "id": "billeteras"
+    },
+    "precio": 4990
+  },
+  {
+    "id": "billeteras-04",
+    "titulo": "Sally",
+    "imagen": "./img/sally.jpg",
+    "categoria": {
+      "nombre": "Billeteras",
+      "id": "billeteras"
+    },
+    "precio": 9890
+  },
+  {
+    "id": "billeteras-05",
+    "titulo": "Janette",
+    "imagen": "./img/janette.jpg",
+    "categoria": {
+      "nombre": "Billeteras",
+      "id": "billeteras"
+    },
+    "precio": 9590
+  },
+
+  {
+    "id": "billeteras-06",
+    "titulo": "Baida",
+    "imagen": "./img/baida.jpg",
+    "categoria": {
+      "nombre": "Billeteras",
+      "id": "billeteras"
+    },
+    "precio": 8390
+  }
+]
